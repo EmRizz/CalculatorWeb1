@@ -115,3 +115,5 @@ clear.addEventListener('click', () => {
     resultValue = 0;
 
 })
+
+console.log('Hi iam here')
